@@ -149,49 +149,49 @@ Select the Parrot OS in Left Pane and click on start for installation. <br> ![2]
     * "Best and Suitable Platform for Penetration test"
 
 - ## How to install the ParrotOs on the Virtualbox?
-   - you should install the virtualbox from [here](https://www.virtualbox.org/wiki/Downloads) and click windows host like this:![virtualbox](Home/Pictures/Screenshots/Virtualbox.png)
+   - you should install the virtualbox from [here](https://www.virtualbox.org/wiki/Downloads) and click windows host like this:![virtualbox](ParrotOs_Installation/Virtualbox.png)
    - then you should install the ParrotOs ISO file from [here](https://www.parrotsec.org/download/) and we will install the Home Edition because it's the default and it's the usualy used at this:
-    <br>![ParrotOs](Home/Pictures/Screenshots/ParrotOs.png)
+    <br>![ParrotOs](ParrotOs_Installation/ParrotOs.png)
    - go to download virtualbox file and open it as Administrator then press next then next then next then yes then install then finish then open it
    - After open the virtualbox click the new icon at the top of virualbox window
-     <br>![newicon](Home/Pictures/Screenshots/newicon.png)
+     <br>![newicon](ParrotOs_Installation/newicon.png)
    - And then create your virtual machine with it's name as __ParrotOs__ and it's type must be __Linux__ and the virsion must be __Debian(64-bit)__ then click next
-     <br>![createvirtualbox](Home/Pictures/Screenshots/createvirtual.png)
+     <br>![createvirtualbox](ParrotOs_Installation/createvirtual.png)
    - then choose the memory size that you want but recommended to choose withen the green line
-    <br>![memorysize](Home/Pictures/Screenshots/memorysize.png)
+    <br>![memorysize](ParrotOs_Installation/memorysize.png)
    - then choose create a virtual hard desk now then create
-    <br>![Harddesk](Home/Pictures/Screenshots/harddesk.png)
+    <br>![Harddesk](ParrotOs_Installation/harddesk.png)
    - then choose __VDI__ as the hard desk file type then next
-    <br>![harddesktype](Home/Pictures/Screenshots/harddesktype.png)
+    <br>![harddesktype](ParrotOs_Installation/harddesktype.png)
    - then choose dynamically allocated
-    <br>![Dynamicallyallocated](Home/Pictures/Screenshots/Dynamicallyallocated.png)
+    <br>![Dynamicallyallocated](ParrotOs_Installation/Dynamicallyallocated.png)
    - select the size of the virtual hard desk then create
-    <br>![virharddesksize](Home/Pictures/Screenshots/virharddesksize.png)
+    <br>![virharddesksize](ParrotOs_Installation/virharddesksize.png)
    - then click setting at top of the virtualbox window then go to the General then click advanced and choose __Bidirectional__ in each of the (shared clipboard and Drag'n Drop)
-    <br>![generaladvanc](Home/Pictures/Screenshots/generaladvanc.png)
+    <br>![generaladvanc](ParrotOs_Installation/generaladvanc.png)
    - then go to System at the right side and click processors then choose hoe many cpu that you want to use but recommended not to pass the green line
-    <br>![processors](Home/Pictures/Screenshots/systemprossesors.png)
+    <br>![processors](ParrotOs_Installation/systemprossesors.png)
    - then go to storage then click to __Empty__ then click the cd icon in the left side then click choose the disk file then choose the ParrotOs ISO file from downloads then open it then click ok
-    <br>![ParrotOsISOfile](Home/Pictures/Screenshots/ISOfile.png)
+    <br>![ParrotOsISOfile](ParrotOs_Installation/ISOfile.png)
    - then press __start__ at the top of the virtualbox window then click to install Parrot
-    <br>![installParrot](Home/Pictures/Screenshots/installationParrot.png)
+    <br>![installParrot](ParrotOs_Installation/installationParrot.png)
    - then choose the default language then next 
-    <br>![language](Home/Pictures/Screenshots/chooselanguage.png)
+    <br>![language](ParrotOs_Installation/chooselanguage.png)
    -  then choose the timezone
-    <br>![timezone](Home/Pictures/Screenshots/timezone.png)
+    <br>![timezone](ParrotOs_Installation/timezone.png)
    - then choose your defualt keyboard 
-    <br>![keyboard](Home/Pictures/Screenshots/keyboard.png)
+    <br>![keyboard](ParrotOs_Installation/keyboard.png)
    - then click to eras disk then next
-    <br>![erasedisk](Home/Pictures/Screenshots/erasedesk.png)
+    <br>![erasedisk](ParrotOs_Installation/erasedesk.png)
    - then set the username and password for your system then next
-    <br>![usernamepass](Home/Pictures/Screenshots/usernamepassword.png)
+    <br>![usernamepass](ParrotOs_Installation/usernamepassword.png)
    - then click install
-    <br>![finalinstallation](Home/Pictures/Screenshots/finishinstallation.png)
+    <br>![finalinstallation](ParrotOs_Installation/finishinstallation.png)
    - then from menu click shutdown icon then shutdown
-    <br>![sutdown](Home/Pictures/Screenshots/shutdown.png) 
+    <br>![sutdown](ParrotOs_Installation/shutdown.png) 
    - After closing the virtual machine open it again and go to setting 
-    <br>![finalsetting](Home/Pictures/Screenshots/finishsetting.png)
+    <br>![finalsetting](ParrotOs_Installation/finishsetting.png)
    - then go to storage then click at the ISO file then click at the cd icon then remove disk from from virtual drive then click ok 
-    <br>![removedisk](Home/Pictures/Screenshots/removedesk.png)
+    <br>![removedisk](ParrotOs_Installation/removedesk.png)
    - then click at the start icon
-    <br>![start](Home/Pictures/Screenshots/start.png)
+    <br>![start](ParrotOs_Installation/start.png)
